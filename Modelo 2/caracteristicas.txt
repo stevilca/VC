@@ -1,0 +1,4 @@
+se agrega batch normalization 
+optimizador Adams
+regularizacion weight_decay=1e-4)
+100 epocas
